@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spi:home|Door43 (spi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spi|d43-spi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spi/archive/master.zip|d43-spi.zip]]
+
+**Recent Changes**
+{{changes>ns = spi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spi|Ethnologue data]]
+
